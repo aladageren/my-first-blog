@@ -43,6 +43,6 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.post h2 a, .post h2 a:visited {
+.post h2 a, .post h2 a:visited, .post h2 {
     color: #5885A2;
 }
